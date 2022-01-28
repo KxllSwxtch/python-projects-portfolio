@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 import time
 from decouple import config
 
@@ -29,6 +29,9 @@ def main():
 
         match user_selection:
             case '1':
+                # Ask user to input the city name
+                # Send the API request
+                # Handle errors
                 pass
 
             case '0':
