@@ -27,6 +27,8 @@ For the best case scenario if will be a log function ⇒ O(logN)
 
 &nbsp;
 
-## Implementation
+## **Exercises**
 
-- Insert a code here
+1.1 Suppose you have a sorted list of 128 names, and you're searching through it using binary search. What's the maximum number of steps it would take?
+
+1.2 Suppose you double the size of the list. What's the maximum number of steps now?
