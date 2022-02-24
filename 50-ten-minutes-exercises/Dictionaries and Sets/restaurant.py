@@ -2,6 +2,9 @@
 
 
 def restaurant(menu: dict) -> int:
+    """
+    Calculates the total amount of order (in $)
+    """
     app_running = True
     total = 0
 
