@@ -7,9 +7,8 @@ Even though I am not able to get a Data Science Degree because I don't meet the 
 ## Packages used for this project
 
 1. Pandas - for data cleaning and analysis
-2. NumPy - to work with numerical data
-3. Seaborn - to visually display data
-4. BeautifulSoup - to scrape data from the target source
+2. Seaborn - to visually display data
+3. Datetime - for date objects manipulations
 
 ## Project Idea
 
