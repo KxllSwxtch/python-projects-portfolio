@@ -3,7 +3,7 @@ import whisper
 
 def speech_recognition(model='base'):
     speech_model = whisper.load_model(model)
-    result = speech_model.transcribe('assets/Магазин - YUNGWAY feat BUSHIDO ZHO.mp3')
+    result = speech_model.transcribe('ENTER FILENAME')
 
     with open(f'transcription_{model}.txt', 'w') as file:
         file.write(result['text'])
